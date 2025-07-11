@@ -112,3 +112,18 @@ window.addEventListener("scroll", () => {
     burgerMenu.classList.remove("shifted");
   }
 });
+
+
+window.addEventListener("scroll", function () {
+  const header = document.querySelector(".second-header");
+  const stickyClass = "is-sticky-desktop";
+
+  if (window.innerWidth > 800) {
+    if (window.scrollY > 100) {
+      header.classList.add(stickyClass);
+    } else {
+      header.classList.remove(stickyClass);
+    }
+  }
+});
+
