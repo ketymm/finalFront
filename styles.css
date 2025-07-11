@@ -751,3 +751,16 @@ header {
     transform: scale(1);
   }
 }
+
+.is-sticky-desktop {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: var(--main-color);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  z-index: 1001;
+  transition: all 0.3s ease;
+  padding: 10px 30px; 
+}
+
+
