@@ -1,0 +1,66 @@
+[
+  {
+    "image": "./assets/images/libre.png",
+    "title": "Yves Saint Laurent Libre",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "bestseller"
+  },
+  {
+    "image": "./assets/images/lhomme.png",
+    "title": "Yves Saint Laurent L'Homme",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "bestseller"
+  },
+  {
+    "image": "./assets/images/y.png",
+    "title": "Yves Saint Laurent Y",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "bestseller"
+  },
+  {
+    "image": "./assets/images/opium.png",
+    "title": "Yves Saint Laurent Black Opium",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "new"
+  },
+  {
+    "image": "./assets/images/212viprose.png",
+    "title": "Carolina Herrera 212 VIP Rose",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "new"
+  },
+  {
+    "image": "./assets/images/goodgirl.png",
+    "title": "Carolina Herrera Very Good Girl",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "top"
+  },
+  {
+    "image": "./assets/images/badboy.png",
+    "title": "Carolina Herrera Bad Boy",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "top"
+  },
+  {
+    "image": "./assets/images/212heroes.png",
+    "title": "Carolina Herrera 212 Heroes",
+    "star": "./assets/images/stars.png",
+    "oldprice": "$65",
+    "price": "$45",
+    "category": "bestseller"
+  }
+]
